@@ -23,10 +23,9 @@ This project explores the connections between:
 
 ### Monte Carlo Solution of PDEs
 
-* Laplace equation
-* Dirichlet boundary conditions
-* Random walk interpretation of harmonic functions
+* Solving Laplace equations
 * Comparison with finite difference methods
+* Using Monte Carlo method in different geometries
 
 ### Applications
 
@@ -36,10 +35,7 @@ This project explores the connections between:
 
 ## Repository Structure
 
-```text
-report/
-    Final_Report.pdf
-
+```
 notebooks/
     diffusion_project.ipynb
     Laplace_project.ipynb
